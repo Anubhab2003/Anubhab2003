@@ -31,8 +31,6 @@ I am a JAVA developer, and enthusiastic about Technology!
 
 ### Badges
 
-<b>My GitHub Stats</b>
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/658527a25145316d2540b6c5?variant=dark" alt="roadmap.sh"/></a>
 
 <a href="http://www.github.com/Anubhab2003"><img src="https://github-readme-stats.vercel.app/api?username=Anubhab2003&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=3382ed&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Anubhab2003's GitHub stats" /></a>
 
