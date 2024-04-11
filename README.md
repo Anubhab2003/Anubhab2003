@@ -25,6 +25,9 @@ I am a JAVA developer, and enthusiastic about Technology!
 </p>
 
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/Anubhab2003)
+
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Anubhab2003" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/anubhab.2003/?theme=dark" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/anubhab-chowdhury-63473b240/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
