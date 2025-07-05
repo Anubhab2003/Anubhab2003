@@ -39,9 +39,11 @@ I am a JAVA developer, and enthusiastic about Technology!
 
 <a href="http://www.github.com/Anubhab2003"><img src="https://github-readme-stats.vercel.app/api?username=Anubhab2003&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=3382ed&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Anubhab2003's GitHub stats" /></a>
 
-## Other Repository Contributions
+## Contributions from SkillSwap
 
-![Other Account Contribution Graph](https://github-readme-stats.vercel.app/api?username=skillswapskill&show_icons=true)
+![SkillSwapSkill GitHub Stats](https://github-readme-stats.vercel.app/api?username=skillswapskill&show_icons=true&theme=github_dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=skillswapskill&theme=dark&hide_border=false)
+
 
 
 
