@@ -43,8 +43,10 @@ I am a JAVA developer, and enthusiastic about Technology!
 
 ![SkillSwapSkill GitHub Stats](https://github-readme-stats.vercel.app/api?username=skillswapskill&show_icons=true&theme=github_dark)
 ![GitHub Streak](https://streak-stats.demolab.com?user=skillswapskill&theme=dark&hide_border=false)
-![GitHub graph](https://ghchart.rshah.org/skillswapskill)
 
+<div align="center" style="background-color:#0d1117; padding: 15px; border-radius: 10px;">
+  <img src="https://ghchart.rshah.org/green/skillswapskill" alt="skillswapskill's GitHub Contribution Graph" />
+</div>
 
 
 
